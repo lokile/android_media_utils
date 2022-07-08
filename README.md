@@ -1,2 +1,2 @@
 # android_media_utils
-Library to load media files in android
+Library to work with media files in android
